@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jpp.sn</title>
+    <link>http://example.org/</link>
+    <description>Recent content on jpp.sn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2017 21:12:36 +1000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 15 Jul 2017 21:12:36 +1000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Well &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.org/post/test/</link>
+      <pubDate>Sat, 15 Jul 2017 21:05:03 +1000</pubDate>
+      
+      <guid>http://example.org/post/test/</guid>
+      <description>asdflasdjflaskf adflasdf jasdlfasldfaslf adfalsdf</description>
+    </item>
+    
+  </channel>
+</rss>
