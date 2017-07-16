@@ -2,22 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on jpp.sn</title>
-    <link>http://example.org/post/</link>
+    <link>https://matthewjeppesen.com/post/</link>
     <description>Recent content in Posts on jpp.sn</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2017 21:05:03 +1000</lastBuildDate>
+    <language>en-au</language>
+    <lastBuildDate>Sun, 16 Jul 2017 13:34:36 +1000</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://matthewjeppesen.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>http://example.org/post/test/</link>
-      <pubDate>Sat, 15 Jul 2017 21:05:03 +1000</pubDate>
+      <title>Foot Surgery</title>
+      <link>https://matthewjeppesen.com/post/foot-surgery/</link>
+      <pubDate>Sun, 16 Jul 2017 13:34:36 +1000</pubDate>
       
-      <guid>http://example.org/post/test/</guid>
-      <description>asdflasdjflaskf adflasdf jasdlfasldfaslf adfalsdf</description>
+      <guid>https://matthewjeppesen.com/post/foot-surgery/</guid>
+      <description>I have had foot surgery. I&amp;rsquo;m lying in bed now, with my foot on a pillow, recovering.
+I delayed the surgery for a long time, over a year. In addition to putting off important work, I also put off fixing my body. I&amp;rsquo;ve tried to write here why it took so long for me to make the decision.
+A year ago my left foot was been giving me problems. It would hurt for a few days, then get better.</description>
     </item>
     
   </channel>
