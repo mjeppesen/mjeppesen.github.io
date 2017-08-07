@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://matthewjeppesen.com/post/ghost-bird/</loc>
+    <lastmod>2017-08-07T07:49:50+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://matthewjeppesen.com/post/help-to-make-the-thing/</loc>
     <lastmod>2017-07-23T09:49:09+10:00</lastmod>
   </url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>http://matthewjeppesen.com/post/</loc>
-    <lastmod>2017-07-23T09:49:09+10:00</lastmod>
+    <lastmod>2017-08-07T07:49:50+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,7 +50,7 @@
   
   <url>
     <loc>http://matthewjeppesen.com/</loc>
-    <lastmod>2017-07-23T09:49:09+10:00</lastmod>
+    <lastmod>2017-08-07T07:49:50+10:00</lastmod>
     <priority>0</priority>
   </url>
   
