@@ -3,27 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jpp.sn/post/electricity-demand-response-at-the-supreme-court/</loc>
+    <loc>http://jpp.sn/2017/12/herds-of-giant-wombats-grazing/</loc>
+    <lastmod>2017-12-10T21:41:29+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpp.sn/2017/11/electricity-demand-response-at-the-supreme-court-demand-response-part-2/</loc>
     <lastmod>2017-11-25T20:40:44+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/paying-people-to-use-less-electricity/</loc>
+    <loc>http://jpp.sn/2017/11/paying-people-to-use-less-electricity-demand-response-part-1/</loc>
     <lastmod>2017-11-07T20:40:44+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/preparing-for-monsters/</loc>
+    <loc>http://jpp.sn/2017/10/preparing-for-monsters/</loc>
     <lastmod>2017-10-26T21:40:38+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/the-best-of-the-old-and-new-swings/</loc>
+    <loc>http://jpp.sn/2017/10/the-best-of-the-old-and-new-swings/</loc>
     <lastmod>2017-10-15T20:40:55+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/fast-slides-and-good-times/</loc>
+    <loc>http://jpp.sn/2017/10/fast-slides-and-good-times/</loc>
     <lastmod>2017-10-09T21:39:59+11:00</lastmod>
   </url>
   
@@ -33,27 +38,27 @@
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/learning-by-heart/</loc>
+    <loc>http://jpp.sn/2017/10/learning-by-heart/</loc>
     <lastmod>2017-10-05T07:47:19+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/ghost-bird/</loc>
+    <loc>http://jpp.sn/2017/08/ghost-bird/</loc>
     <lastmod>2017-08-07T07:49:50+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/help-to-make-the-thing/</loc>
+    <loc>http://jpp.sn/2017/07/help-to-make-the-thing/</loc>
     <lastmod>2017-07-23T09:49:09+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/what-a-country/</loc>
+    <loc>http://jpp.sn/2017/07/what-a-country/</loc>
     <lastmod>2017-07-22T09:37:06+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/discovery-of-helium-part-ii/</loc>
+    <loc>http://jpp.sn/2017/07/discovery-of-helium-under-the-earth/</loc>
     <lastmod>2017-07-21T06:40:43+10:00</lastmod>
   </url>
   
@@ -63,12 +68,12 @@
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/discovery-of-helium/</loc>
+    <loc>http://jpp.sn/2017/07/helium-was-discovered-on-the-sun-before-the-earth/</loc>
     <lastmod>2017-07-17T08:33:33+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/foot-surgery/</loc>
+    <loc>http://jpp.sn/2017/07/foot-surgery/</loc>
     <lastmod>2017-07-16T13:34:36+10:00</lastmod>
   </url>
   
@@ -78,19 +83,44 @@
   </url>
   
   <url>
-    <loc>http://jpp.sn/post/</loc>
+    <loc>http://jpp.sn/tags/energy/</loc>
     <lastmod>2017-11-25T20:40:44+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpp.sn/tags/history/</loc>
+    <lastmod>2017-07-21T06:40:43+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpp.sn/post/</loc>
+    <lastmod>2017-12-10T21:41:29+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpp.sn/tags/science/</loc>
+    <lastmod>2017-07-21T06:40:43+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jpp.sn/tags/</loc>
+    <lastmod>2017-11-25T20:40:44+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpp.sn/tags/the-sun/</loc>
+    <lastmod>2017-07-21T06:40:43+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jpp.sn/</loc>
-    <lastmod>2017-11-25T20:40:44+11:00</lastmod>
+    <lastmod>2017-12-10T21:41:29+11:00</lastmod>
     <priority>0</priority>
   </url>
   
