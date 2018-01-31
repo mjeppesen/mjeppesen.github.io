@@ -83,6 +83,12 @@
   </url>
   
   <url>
+    <loc>http://jpp.sn/tags/birds/</loc>
+    <lastmod>2017-08-07T07:49:50+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://jpp.sn/categories/</loc>
     <priority>0</priority>
   </url>
@@ -94,8 +100,14 @@
   </url>
   
   <url>
+    <loc>http://jpp.sn/tags/family/</loc>
+    <lastmod>2018-01-10T23:10:48+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://jpp.sn/tags/history/</loc>
-    <lastmod>2017-07-21T06:40:43+10:00</lastmod>
+    <lastmod>2017-12-10T21:41:29+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -107,13 +119,13 @@
   
   <url>
     <loc>http://jpp.sn/tags/science/</loc>
-    <lastmod>2017-07-21T06:40:43+10:00</lastmod>
+    <lastmod>2017-12-10T21:41:29+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jpp.sn/tags/</loc>
-    <lastmod>2017-11-25T20:40:44+11:00</lastmod>
+    <lastmod>2017-08-07T07:49:50+10:00</lastmod>
     <priority>0</priority>
   </url>
   
