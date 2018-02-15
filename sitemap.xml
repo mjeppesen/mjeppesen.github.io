@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jpp.sn/2018/02/tupaia-biography-by-joan-druett/</loc>
+    <lastmod>2018-02-14T09:17:57+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jpp.sn/2018/01/logbooks-of-childcare/</loc>
     <lastmod>2018-01-10T23:10:48+11:00</lastmod>
   </url>
@@ -107,13 +112,25 @@
   
   <url>
     <loc>http://jpp.sn/tags/history/</loc>
-    <lastmod>2017-12-10T21:41:29+11:00</lastmod>
+    <lastmod>2018-02-14T09:17:57+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpp.sn/tags/new-zealand/</loc>
+    <lastmod>2018-02-14T09:17:57+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpp.sn/tags/polynesia/</loc>
+    <lastmod>2018-02-14T09:17:57+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jpp.sn/post/</loc>
-    <lastmod>2018-01-10T23:10:48+11:00</lastmod>
+    <lastmod>2018-02-14T09:17:57+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -136,8 +153,14 @@
   </url>
   
   <url>
+    <loc>http://jpp.sn/tags/tupaia/</loc>
+    <lastmod>2018-02-14T09:17:57+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://jpp.sn/</loc>
-    <lastmod>2018-01-10T23:10:48+11:00</lastmod>
+    <lastmod>2018-02-14T09:17:57+11:00</lastmod>
     <priority>0</priority>
   </url>
   
