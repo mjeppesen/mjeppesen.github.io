@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jpp.sn/2018/02/where-to-cut-the-tape/</loc>
+    <lastmod>2018-02-17T09:48:26+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jpp.sn/2018/02/tupaia-polynesian-navigator-and-translator-biography-by-joan-druett/</loc>
     <lastmod>2018-02-15T09:17:57+11:00</lastmod>
   </url>
@@ -106,13 +111,19 @@
   
   <url>
     <loc>http://jpp.sn/tags/family/</loc>
-    <lastmod>2018-01-10T23:10:48+11:00</lastmod>
+    <lastmod>2018-02-17T09:48:26+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jpp.sn/tags/history/</loc>
     <lastmod>2018-02-15T09:17:57+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpp.sn/tags/my-dad/</loc>
+    <lastmod>2018-02-17T09:48:26+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -130,7 +141,7 @@
   
   <url>
     <loc>http://jpp.sn/post/</loc>
-    <lastmod>2018-02-15T09:17:57+11:00</lastmod>
+    <lastmod>2018-02-17T09:48:26+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -160,7 +171,7 @@
   
   <url>
     <loc>http://jpp.sn/</loc>
-    <lastmod>2018-02-15T09:17:57+11:00</lastmod>
+    <lastmod>2018-02-17T09:48:26+11:00</lastmod>
     <priority>0</priority>
   </url>
   
