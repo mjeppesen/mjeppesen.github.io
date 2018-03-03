@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jpp.sn/2018/03/icarus/</loc>
+    <lastmod>2018-03-02T09:57:59+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jpp.sn/2018/02/where-to-cut-the-tape/</loc>
     <lastmod>2018-02-17T09:48:26+11:00</lastmod>
   </url>
@@ -122,6 +127,12 @@
   </url>
   
   <url>
+    <loc>http://jpp.sn/tags/movies/</loc>
+    <lastmod>2018-03-02T09:57:59+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://jpp.sn/tags/my-dad/</loc>
     <lastmod>2018-02-17T09:48:26+11:00</lastmod>
     <priority>0</priority>
@@ -141,13 +152,19 @@
   
   <url>
     <loc>http://jpp.sn/post/</loc>
-    <lastmod>2018-02-17T09:48:26+11:00</lastmod>
+    <lastmod>2018-03-02T09:57:59+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jpp.sn/tags/science/</loc>
     <lastmod>2017-12-10T21:41:29+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpp.sn/tags/sport/</loc>
+    <lastmod>2018-03-02T09:57:59+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -171,7 +188,7 @@
   
   <url>
     <loc>http://jpp.sn/</loc>
-    <lastmod>2018-02-17T09:48:26+11:00</lastmod>
+    <lastmod>2018-03-02T09:57:59+11:00</lastmod>
     <priority>0</priority>
   </url>
   
