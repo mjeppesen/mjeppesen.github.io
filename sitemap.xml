@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jpp.sn/2018/03/solar-power-in-space-vanguard-1/</loc>
+    <lastmod>2018-03-17T10:46:57+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jpp.sn/2018/03/icarus/</loc>
     <lastmod>2018-03-02T09:57:59+11:00</lastmod>
   </url>
@@ -110,7 +115,7 @@
   
   <url>
     <loc>http://jpp.sn/tags/energy/</loc>
-    <lastmod>2017-11-25T20:40:44+11:00</lastmod>
+    <lastmod>2018-03-17T10:46:57+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -122,7 +127,7 @@
   
   <url>
     <loc>http://jpp.sn/tags/history/</loc>
-    <lastmod>2018-02-15T09:17:57+11:00</lastmod>
+    <lastmod>2018-03-17T10:46:57+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -152,13 +157,19 @@
   
   <url>
     <loc>http://jpp.sn/post/</loc>
-    <lastmod>2018-03-02T09:57:59+11:00</lastmod>
+    <lastmod>2018-03-17T10:46:57+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jpp.sn/tags/science/</loc>
-    <lastmod>2017-12-10T21:41:29+11:00</lastmod>
+    <lastmod>2018-03-17T10:46:57+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpp.sn/tags/solar-power/</loc>
+    <lastmod>2018-03-17T10:46:57+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -188,7 +199,7 @@
   
   <url>
     <loc>http://jpp.sn/</loc>
-    <lastmod>2018-03-02T09:57:59+11:00</lastmod>
+    <lastmod>2018-03-17T10:46:57+11:00</lastmod>
     <priority>0</priority>
   </url>
   
